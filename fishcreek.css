@@ -15,10 +15,20 @@ dt {color: #5280C5;
     font-style: bold;
     font-family: Georgia, "Times New Roman";
 }
+li {color: #5280C5;
+    font-size: 1.1em;
+    font-style: bold;
+    font-family: Georgia, "Times New Roman";
+}
 .feature {font-weight: bold;
         color: #5380C5;
         font-family: Georgia, "Times New Romans";
 }
 footer {font-size: .70em;
         font-style: italic; 
+}
+wrapper {width: 80%; 
+        margin-right: auto;
+        margin-left: auto;
+        color: #F0F0F0;
 }
